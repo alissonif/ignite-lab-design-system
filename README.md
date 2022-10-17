@@ -34,7 +34,8 @@ Projeto desenvolvido durante a semana de 10/10/2022 a 13/11/2022, onde pude ter 
 Durante as aulas, pude conhecer como montar uma estrutura visual de um design system na prática com o Figma e como porta-lo para o código disponibilizando assim os dados para testes dos componentes via StoryBook,
 deploy automatizado com GitHub Actions e simulação do Front-End em Vite.
 
-<!-- ![image](https://user-images.githubusercontent.com/12506432/195761826-2861aa90-156f-45d3-9ec3-6730930b3757.png) -->
+<!-- ![image](https://user-images.githubusercontent.com/113787415/196235116-7e2e0a6b-afff-4f7e-a105-edd5abc4b013.PNG) -->
+![page](https://user-images.githubusercontent.com/113787415/196235116-7e2e0a6b-afff-4f7e-a105-edd5abc4b013.PNG)
 
 </div>
 
@@ -292,15 +293,15 @@ Veja aqui a publicação do StoryBook no GitHub Pages
 
 - [https://alissonif.github.io/rocketseat-ignite-lab-design-system](https://alissonif.github.io/rocketseat-ignite-lab-design-system/?path=/story/components-button--default)
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783039-a5894c65-576a-4afa-a53a-92e09359e40c.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/113787415/196235010-b0e3a241-a0fb-4977-ad70-612fd876933f.PNG">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783108-1897753f-12f0-4bc7-8b62-5b4986074414.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/113787415/196235041-73d81f6b-d02e-4a97-a023-d712d2fb1997.PNG">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195782423-ff44783f-e7c1-4fe1-955d-bfd818c67bd5.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/113787415/196235055-8e7b8332-3bd6-42ad-9f06-97bb41931e5c.PNG">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783243-f5f4874e-34a2-4d2d-83c0-ae2fc1aa9978.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/113787415/196235070-95a64ea3-48a8-4513-8935-c9cf193fd63c.PNG">
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/12506432/195783293-69f2124a-4fd4-4cf0-a3f2-720a6fef29f3.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/113787415/196235080-c4971f43-1f8b-4bdc-a70d-df3570747704.PNG">
 
 ## Instalação e uso
 
