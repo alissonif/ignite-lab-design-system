@@ -291,7 +291,7 @@ Adicionando o StoryBook no packages.json
 
 Veja aqui a publicação do StoryBook no GitHub Pages
 
-- [https://alissonif.github.io/rocketseat-ignite-lab-design-system](https://alissonif.github.io/rocketseat-ignite-lab-design-system/?path=/story/components-button--default)
+- [https://alissonif.github.io/ignite-lab-design-system](https://alissonif.github.io/ignite-lab-design-system/?path=/story/components-button--default)
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/113787415/196235010-b0e3a241-a0fb-4977-ad70-612fd876933f.PNG">
 
@@ -308,7 +308,7 @@ Veja aqui a publicação do StoryBook no GitHub Pages
 Clone o projeto e acesse a pasta
 
 ```bash
-git clone https://github.com/alissonif/rocketseat-ignite-lab-design-system
+git clone https://github.com/alissonif/ignite-lab-design-system
 ```
 
 Siga os passos abaixo:
@@ -337,7 +337,7 @@ $ npm run storybook
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/RocketSeat-ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/react-2.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/react-2.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
@@ -347,17 +347,17 @@ $ npm run storybook
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/RocketSeat-ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/github-icon-1.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/github-icon-1.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/RocketSeat-ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/storybook-1.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/storybook-1.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/RocketSeat-ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/tailwindcss.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/tailwindcss.svg?raw=true">
       </a>
     </td>
   </tr>
@@ -365,24 +365,19 @@ $ npm run storybook
 
 </div>
 
-## Where to find me
+## Onde me encontrar
 
 <div>
-    <a href="https://www.youtube.com/channel/UC52P3HVpmOMHjkmIhcjLRyQ" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-    </a>
-    <a href="https://instagram.com/alissonif" target="_blank">
+
+    <a href="https://instagram.com/josealisson97" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href = "mailto:claudneysartisessa@gmail.com">
+    <a href = "mailto:josealissonif@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/alissonif/" target="_blank">
+    <a href="https://www.linkedin.com/in/josealissonif/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-    <a href="https://medium.com/@claudneysartisessa" target="_blank">
-      <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
+
 </div>
 
 ## Veja o meu Perfil no Github
@@ -390,5 +385,5 @@ $ npm run storybook
 https://github.com/alissonif
 
 ## Contact
- - Instagram: [https://www.instagram.com/alissonif/](https://www.instagram.com/alissonif/)
- - Linkedin: [https://www.linkedin.com/in/alissonif/](https://www.linkedin.com/in/alissonif/)
+ - Instagram: [https://www.instagram.com/josealisson97/](https://www.instagram.com/josealisson97/)
+ - Linkedin: [https://www.linkedin.com/in/josealissonif/](https://www.linkedin.com/in/josealissonif/)
