@@ -325,50 +325,13 @@ $ npm run storybook
 
 ## Ferramentas Utilizadas
 
-<div>
-
-<table border="0">
-  <tr>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196241841-a94ae043-8e52-42bb-94e2-8153e192a294/figma-1.svg?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/196242175-e3333c8a-b7b0-4571-b1c1-9dc4ba00a08a/react-2.svg?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/alissonif/alissonif/blob/main/images/language_icons/https://user-images.githubusercontent.com/113787415/196242190-9b48a872-f3dd-4ae4-ab5f-07f51d7703f5.png?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196242201-2d2aaf54-bd10-4a10-b1e7-fbc773250831/github-icon-1.svg?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196242211-2af0466d-fdae-40df-9731-6573c425e2e9/storybook-1.svg?raw=true">
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="![tailwindcss](https://user-images.githubusercontent.com/113787415/196242229-f4925676-d36e-4315-a3da-2026d3b27543.svg)"?raw=true">
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+![Ferramentas](https://user-images.githubusercontent.com/113787415/196237764-b78025a3-0111-4731-b36c-472ac4164d8a.PNG)
 
 ## Onde me encontrar
 
 <div>
 
-    <a href="https://instagram.com/josealisson97" target="_blank">
+    <a href="https://instagram.com/josealissonif97" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
     <a href = "mailto:josealissonif@gmail.com">
@@ -376,6 +339,7 @@ $ npm run storybook
     </a>
     <a href="https://www.linkedin.com/in/josealissonif/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
 
 </div>
 
