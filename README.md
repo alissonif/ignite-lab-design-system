@@ -330,7 +330,9 @@ $ npm run storybook
 ## Onde me encontrar
 
 <div>
-
+    <a href="https://www.youtube.com/channel/UCMNfOdVLwHFxHC7JCjp1AmQ" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    </a>
     <a href="https://instagram.com/josealissonif97" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
@@ -340,7 +342,6 @@ $ npm run storybook
     <a href="https://www.linkedin.com/in/josealissonif/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-
 </div>
 
 ## Veja o meu Perfil no Github
