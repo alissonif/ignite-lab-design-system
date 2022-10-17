@@ -384,5 +384,5 @@ $ npm run storybook
 https://github.com/alissonif
 
 ## Contact
- - Instagram: [https://www.instagram.com/josealisson97/](https://www.instagram.com/josealisson97/)
+ - Instagram: [https://www.instagram.com/josealissonif97/](https://www.instagram.com/josealissonif97/)
  - Linkedin: [https://www.linkedin.com/in/josealissonif/](https://www.linkedin.com/in/josealissonif/)
