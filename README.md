@@ -356,7 +356,7 @@ $ npm run storybook
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196242229-f4925676-d36e-4315-a3da-2026d3b27543/tailwindcss.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="![tailwindcss](https://user-images.githubusercontent.com/113787415/196242229-f4925676-d36e-4315-a3da-2026d3b27543.svg)"?raw=true">
       </a>
     </td>
   </tr>
