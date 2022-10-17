@@ -6,7 +6,7 @@ Evento disponibilizado pela [RocketSeat](https://www.rocketseat.com.br/)
 
 ## Tema: Design System com Figma, React e StoryBook
 
-<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alissonif/RocketSeat-ignite-lab-design-system"/>
+<img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/alissonif/ignite-lab-design-system"/>
 
 Projeto desenvolvido durante a semana de 10/10/2022 a 13/11/2022, onde pude ter contato com várias ferramentas para a construção de um Design System como, Figma, React, StoryBook e TailwindCSS.
 
@@ -34,7 +34,6 @@ Projeto desenvolvido durante a semana de 10/10/2022 a 13/11/2022, onde pude ter 
 Durante as aulas, pude conhecer como montar uma estrutura visual de um design system na prática com o Figma e como porta-lo para o código disponibilizando assim os dados para testes dos componentes via StoryBook,
 deploy automatizado com GitHub Actions e simulação do Front-End em Vite.
 
-<!-- ![image](https://user-images.githubusercontent.com/113787415/196235116-7e2e0a6b-afff-4f7e-a105-edd5abc4b013.PNG) -->
 ![page](https://user-images.githubusercontent.com/113787415/196235116-7e2e0a6b-afff-4f7e-a105-edd5abc4b013.PNG)
 
 </div>
@@ -332,32 +331,32 @@ $ npm run storybook
   <tr>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/RocketSeat-ignite-lab-design-system/f09dc9a18337c083ee209b5ebd8f0987d03b83bd/figma-1.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196241841-a94ae043-8e52-42bb-94e2-8153e192a294/figma-1.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/react-2.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/196242175-e3333c8a-b7b0-4571-b1c1-9dc4ba00a08a/react-2.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/alissonif/alissonif/blob/main/images/language_icons/visual%20studio%20code.png?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://github.com/alissonif/alissonif/blob/main/images/language_icons/https://user-images.githubusercontent.com/113787415/196242190-9b48a872-f3dd-4ae4-ab5f-07f51d7703f5.png?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/github-icon-1.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196242201-2d2aaf54-bd10-4a10-b1e7-fbc773250831/github-icon-1.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/storybook-1.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196242211-2af0466d-fdae-40df-9731-6573c425e2e9/storybook-1.svg?raw=true">
       </a>
     </td>
     <td align="center" width="96">
       <a href="#VisualStudioCode-tech">
-        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/05ac7733917f772e1361c73b696a2d94ef1d4fe5/tailwindcss.svg?raw=true">
+        <img align="center" alt="devcss-Js" height="65" width="65" src="https://raw.githubusercontent.com/alissonif/ignite-lab-design-system/113787415/196242229-f4925676-d36e-4315-a3da-2026d3b27543/tailwindcss.svg?raw=true">
       </a>
     </td>
   </tr>
