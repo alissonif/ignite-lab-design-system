@@ -1,5 +1,5 @@
 import { Checkbox } from '@radix-ui/react-checkbox';
-import { FormEvent } from 'react';
+import { FormEvent, useState } from 'react';
 import { Envelope, Lock } from 'phosphor-react';
 // import { Checkbox } from '../components/Checkbox';
 import { Button } from '../components/Button';
@@ -7,10 +7,20 @@ import { Heading } from '../components/Heading';
 import { TextInput } from '../components/TextInput';
 import { Text } from '../components/Text';
 import { Logo } from '../Logo';
+import axios from 'axios';
 
 export function SignIn() {
-  function handleSignIn(event: FormEvent) {
-    event.preventDefault();
+  const[isUserSignedIn, setIsUserSignedIn]=useState(false)
+   async function handleSignIn(event: FormEvent) {
+    event.preventDefault()
+
+
+   await axios.post('/sessions',{
+    email:'diego@rocketseat.com.br',
+    password:'12345678'
+   })
+
+    setIsUserSignedIn(true)
   }
   return (
     <div className='w-screen h-screen bg-gray-900 flex flex-col gap-4 items-center justify-center text-gray-100'>
@@ -24,7 +34,8 @@ export function SignIn() {
         </Text>
       </header>
 
-      <form className='flex flex-col gap-4 items-stretch w-full max-w-sm mt-10'>
+      <form onSubmit={handleSignIn} className='flex flex-col gap-4 items-stretch w-full max-w-sm mt-10'>
+        {isUserSignedIn && <Text>Login Realizado!</Text>}
         <label htmlFor="email" className='flex flex-col gap-3'>
           <Text className="font-semibold">Endereço de e-mail</Text>
           <TextInput.Root>

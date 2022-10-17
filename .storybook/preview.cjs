@@ -1,6 +1,14 @@
 import { themes } from '@storybook/theming'
+import { initialize, mswDecorator } from 'msw-storybook-addon';
 
 import '../src/style/global.css'
+
+// Initialize MSW
+initialize({
+  onUnhandledRequest:'bypass'
+});
+// Provide the MSW addon decorator globally
+export const decorators = [mswDecorator];
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
